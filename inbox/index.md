@@ -1,4 +1,1 @@
-Hacker News Tools of the Trade 😎
-https://github.com/cjbarber/ToolsOfTheTrade
-
-
+[Hacker News Tools of the Trade 😎](https://github.com/cjbarber/ToolsOfTheTrade)
